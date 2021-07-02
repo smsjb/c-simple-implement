@@ -1,7 +1,0 @@
-D:\source\repos\Generic\Generic\bin\Debug\Generic.exe.config
-D:\source\repos\Generic\Generic\bin\Debug\Generic.exe
-D:\source\repos\Generic\Generic\bin\Debug\Generic.pdb
-D:\source\repos\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
-D:\source\repos\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
-D:\source\repos\Generic\Generic\obj\Debug\Generic.exe
-D:\source\repos\Generic\Generic\obj\Debug\Generic.pdb
